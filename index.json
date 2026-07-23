@@ -1,1 +1,39 @@
 
+[
+  {
+    "id": "001",
+    "name": "Ba chú heo",
+    "tags": ["heo", "co tich"],
+    "category": "co tich",
+    "age": "3-6",
+    "duration": 240,
+    "path": "stories/three_pigs.mp3"
+  },
+  {
+    "id": "002",
+    "name": "Thỏ và Rùa",
+    "tags": ["rua", "tho", "co tich"],
+    "category": "co tich",
+    "age": "3-6",
+    "duration": 180,
+    "path": "stories/tortoise_hare.mp3"
+  },
+  {
+    "id": "010",
+    "name": "Khủng long",
+    "tags": ["khung long", "khoa hoc"],
+    "category": "science",
+    "age": "4-7",
+    "duration": 200,
+    "path": "stories/dinosaur.mp3"
+  },
+  {
+    "id": "s01",
+    "name": "Bài hát ABC",
+    "tags": ["bai hat", "abc", "hoc chu"],
+    "category": "song",
+    "age": "2-5",
+    "duration": 90,
+    "path": "songs/abc.mp3"
+  }
+]
