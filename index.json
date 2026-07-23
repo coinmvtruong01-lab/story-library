@@ -11,21 +11,21 @@
   },
   {
     "id": "002",
-    "name": "Thỏ và Rùa",
-    "tags": ["rua", "tho", "co tich"],
-    "category": "co tich",
+    "name": "Nơi này có Anh",
+    "tags": ["bai hat", "noi nay co anh", "Son Tung"],
+    "category": "song",
     "age": "3-6",
     "duration": 180,
-    "path": "stories/tortoise_hare.mp3"
+    "path": "songs/noinaycoanh.mp3"
   },
   {
     "id": "010",
-    "name": "Khủng long",
-    "tags": ["khung long", "khoa hoc"],
-    "category": "science",
+    "name": "Chúng Ta Không Thuộc Về Nhau",
+    "tags": ["bai hat", "Son Tung"],
+    "category": "song",
     "age": "4-7",
     "duration": 200,
-    "path": "stories/dinosaur.mp3"
+    "path": "songs/ChungTaKhongThuocVeNhau.mp3"
   },
   {
     "id": "s01",
