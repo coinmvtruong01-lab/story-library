@@ -2,12 +2,12 @@
 [
   {
     "id": "001",
-    "name": "Ba chú heo",
-    "tags": ["heo", "co tich"],
-    "category": "co tich",
+    "name": "Tiếng cười",
+    "tags": ["Tieng", "cuoi"],
+    "category": "vui nhon",
     "age": "3-6",
-    "duration": 240,
-    "path": "stories/three_pigs.mp3"
+    "duration": 60,
+    "path": "stories/tiengcuoi.mp3"
   },
   {
     "id": "002",
@@ -29,11 +29,11 @@
   },
   {
     "id": "s01",
-    "name": "Bài hát ABC",
-    "tags": ["bai hat", "abc", "hoc chu"],
+    "name": "Bài hátTây Du Ký",
+    "tags": ["bai hat", "tay du ky", "hoc chu"],
     "category": "song",
     "age": "2-5",
     "duration": 90,
-    "path": "songs/abc.mp3"
+    "path": "songs/tayduky.mp3"
   }
 ]
