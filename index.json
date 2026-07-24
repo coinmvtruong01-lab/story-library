@@ -7,7 +7,7 @@
     "category": "story",
     "age": "3-6",
     "duration": 300,
-    "path": "stories/tiengcuoi.mp3"
+    "path": "stories/con-tho-mat-trang.mp3"
   },
   {
     "id": "002",
@@ -16,7 +16,7 @@
     "category": "story",
     "age": "3-6",
     "duration": 300,
-    "path": "stories/tiengcuoi.mp3"
+    "path": "stories/hai-anh-em.mp3"
   },
   {
     "id": "003",
@@ -25,7 +25,7 @@
     "category": "story",
     "age": "3-6",
     "duration": 300,
-    "path": "stories/tiengcuoi.mp3"
+    "path": "stories/su-tich-con-cu-meo.mp3"
   },
   {
     "id": "s01",
